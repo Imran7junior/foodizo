@@ -91,10 +91,10 @@ git clone <repository-url>
 Install dependencies:
 
 ```bash
-cd client
+cd ./frontend
 npm install
 
-cd ../server
+cd ./backend
 npm install
 ```
 
